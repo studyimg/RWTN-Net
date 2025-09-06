@@ -1,0 +1,11 @@
+imageio==2.35.1
+matplotlib==3.9.2
+numpy==1.25.0
+opencv-python==4.10.0.84
+Pillow==10.2.0
+PyWavelets==1.6.0
+scikit-image==0.24.0
+scikit-learn==1.5.1
+scipy==1.13.1
+six==1.16.0
+tqdm==4.66.5
